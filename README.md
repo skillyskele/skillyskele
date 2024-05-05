@@ -1,16 +1,22 @@
-### Hi there 👋
+# Welcome to My GitHub Profile!
 
-<!--
-**skillyskele/skillyskele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Introduction
+Hey there! 👋 I'm **Nathan Kim**, and I'm passionate about **web development**, **cybersecurity**, and **electrical engineering**.
 
-Here are some ideas to get you started:
+## Recent Project
+🔍 **Most Recent Project:** ARP Spoofing IoT Network
+- **Description:** Built and ARP spoofed an IoT network, proposing a solution using network topology to mitigate risks.
+- **Repository:** [IoT-Spring-2024](link) and [hacking-scripts](link)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Where to Find My Stuff
+🛠️ **Repositories:**
+- [hacking-scripts](link): Scripts and tools for cybersecurity, including:
+  - Clearing Windows logs
+  - Process injection techniques
+  - ARP spoofing
+  - And more!
+- [Grocery-Tracking-App](link): MERN stack application for tracking groceries.
+- [IoT-Spring-2024](link): IoT Device and Agent code for my most recent project
+
+## Electrical Engineering Projects
+⚡ **Electrical Engineering:** I haven't uploaded code here yet because they are for school projects, so uploading code wouldn't be ethically sound, but I'll be doing personal EE projects soon! Stay tuned for exciting personal EE projects!
