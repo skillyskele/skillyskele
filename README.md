@@ -21,4 +21,10 @@ Hey there! 👋 I'm **Nathan Kim**, and I'm passionate about **web development**
 - [SPC-Fall-2023](https://github.com/skillyskele/SPC-Fall-2023) has code for a mini CTF using openEMR source code that I made with my team. I contributed the XSS vulnerability!
 
 ## Electrical Engineering Projects
-⚡ **Electrical Engineering:** I haven't uploaded code here yet because they are for school homeworks, so uploading code wouldn't be academically ethical, but I'll be doing personal EE projects soon! Stay tuned for exciting personal EE projects!
+⚡ **Electrical Engineering:** 
+- Currently building a microprocessor by building one component at a time
+- Not very organized yet, I'm just uploading whatever I have right now, including:
+  - VHDL code
+  - Schematics
+  - Any brainstorming and planning that I do
+- I'll make a formalized portfolio soon
