@@ -22,9 +22,9 @@ Hey there! 👋 I'm **Nathan Kim**, and I'm passionate about **web development**
 
 ## Electrical Engineering Projects
 ⚡ **Electrical Engineering:** 
-- Currently building a microprocessor by building one component at a time
-- Not very organized yet, I'm just uploading whatever I have right now, including:
-  - VHDL code
-  - Schematics
-  - Any brainstorming and planning that I do
-- I'll make a formalized portfolio soon
+- Currently building a microprocessor by building one component at a time!
+  - Not very organized yet, I'm just uploading whatever I have right now, including:
+    - VHDL code
+    - Schematics
+    - Any brainstorming and planning that I do
+  - I'll make a formalized portfolio soon
