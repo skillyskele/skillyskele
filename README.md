@@ -22,9 +22,10 @@ Hey there! 👋 I'm **Nathan Kim**, and I'm passionate about **web development**
 
 ## Electrical Engineering Projects
 ⚡ **Electrical Engineering:** 
-- Currently building a microprocessor by building one component at a time!
+- Currently building a [microprocessor](https://github.com/skillyskele/Microprocessor-Design)
   - Not very organized yet, I'm just uploading whatever I have right now, including:
     - VHDL code
     - Schematics
     - Any brainstorming and planning that I do
-  - I'll make a formalized portfolio soon
+  - The "Practicing the Basics" folder has basic digital circuits I made for practice
+  - Each microprocessor design has its own folder
