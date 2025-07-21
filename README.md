@@ -1,8 +1,7 @@
 # Welcome to My GitHub Profile!
 
 ## Introduction
-Hey there! 👋 I'm **Nathan Kim**, and I'm passionate about **web development**, **cybersecurity**, and **electrical engineering**.
-
+Hey there! 👋 I'm **Nathan Kim**, and I'm passionate about **digital and analog circuit design**, **RTL development**, and **hardware acceleration**. 
 ## Recent Project
 🔍 **Most Recent Project:** Floating Point ADC
 - **Description:** Designed a low-power floating-point analog-to-digital converter that takes analog current inputs and outputs their digital values in IEEE 754 formatting.
