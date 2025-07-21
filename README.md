@@ -8,7 +8,15 @@ Hey there! 👋 I'm **Nathan Kim**, and I'm passionate about **web development**
 - **Description:** Built and ARP spoofed an IoT network, proposing a solution using network topology to mitigate risks.
 - **Repository:** [IoT-Spring-2024](https://github.com/skillyskele/IoT-Spring-2024) contains writeup and IoT device code, and [hacking-scripts](https://github.com/skillyskele/Hacking-Scripts) contains spoofing script
 
-## Where to Find My Stuff
+## Electrical Engineering Projects
+⚡ **Electrical Engineering:** 
+- Oscilloscope with VGA and [FPGA](https://github.com/skillyskele/FPGA-Oscilloscope-Project)
+- Building a [microprocessor](https://github.com/skillyskele/Microprocessor-Design)
+- [Floating Point ADC](https://skillyskele.github.io/portfolio/floating_point_adc.html)
+- see more in my [digital design portfolio](https://skillyskele.github.io/portfolio/)
+  
+
+## Computer Science Projects
 🛠️ **Repositories:**
 - [hacking-scripts](https://github.com/skillyskele/Hacking-Scripts): Scripts and tools for cybersecurity, including:
   - Clearing Windows logs
@@ -19,13 +27,3 @@ Hey there! 👋 I'm **Nathan Kim**, and I'm passionate about **web development**
 - [IoT-Spring-2024](https://github.com/skillyskele/IoT-Spring-2024): IoT Device and Agent code for my most recent project.
 - In the [UIMA](https://github.com/jhu-cs-uima-sp24/TeamQ-Reminisce) repository, you can find code for a mobile app that I developed with my teammates!
 - [SPC-Fall-2023](https://github.com/skillyskele/SPC-Fall-2023) has code for a mini CTF using openEMR source code that I made with my team. I contributed the XSS vulnerability!
-
-## Electrical Engineering Projects
-⚡ **Electrical Engineering:** 
-- Currently building a [microprocessor](https://github.com/skillyskele/Microprocessor-Design)
-  - Not very organized yet, I'm just uploading whatever I have right now, including:
-    - VHDL code
-    - Schematics
-    - Any brainstorming and planning that I do
-  - The "Practicing the Basics" folder has basic digital circuits I made for practice
-  - Each microprocessor design has its own folder
