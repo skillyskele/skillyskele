@@ -8,16 +8,14 @@ Hey there! 👋 I'm **Nathan Kim**, and I'm passionate about **web development**
 - **Description:** Built and ARP spoofed an IoT network, proposing a solution using network topology to mitigate risks.
 - **Repository:** [IoT-Spring-2024](https://github.com/skillyskele/IoT-Spring-2024) contains writeup and IoT device code, and [hacking-scripts](https://github.com/skillyskele/Hacking-Scripts) contains spoofing script
 
-## Electrical Engineering Projects
-⚡ **Electrical Engineering:** 
+## ⚡ Electrical Engineering Projects
 - Oscilloscope with VGA and [FPGA](https://github.com/skillyskele/FPGA-Oscilloscope-Project)
 - Building a [microprocessor](https://github.com/skillyskele/Microprocessor-Design)
 - [Floating Point ADC](https://skillyskele.github.io/portfolio/floating_point_adc.html)
 - see more in my [digital design portfolio](https://skillyskele.github.io/portfolio/)
   
 
-## Computer Science Projects
-🛠️ **Repositories:**
+## 💻 Computer Science Projects
 - [hacking-scripts](https://github.com/skillyskele/Hacking-Scripts): Scripts and tools for cybersecurity, including:
   - Clearing Windows logs
   - Process injection techniques
